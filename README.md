@@ -1,4 +1,4 @@
-# task-3-SkillCraft
+# task-3
   
 **Decision Tree Classifier for Customer Purchase Prediction**
 
